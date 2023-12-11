@@ -1,0 +1,73 @@
+// 分类 ++
+// 修复所有分类的第一个 detail内容为空
+{
+  "name": "LIBVIO",
+  "url": "https://www.libvio.me",
+  "tihuan": "dd520.cc",
+  "User": "空",
+  "shouye": "1",
+
+  "fenlei":"电影$/type/1--------#剧集$/type/2--------#动漫$/type/4--------#日韩剧$/type/15--------#欧美剧$/type/16--------#",
+  "houzhui": ".html",
+
+  "shifouercijiequ": "0",
+  "jiequqian": "<ul class=\"stui-vodlist clearfix\">",
+  "jiequhou": "<div class=\"stui-pannel__ft",
+  "jiequshuzuqian": "<div class=\"stui-vodlist__box\">",
+  "jiequshuzuhou": "</a>",
+  "tupianqian": "data-original=\"",
+  "tupianhou": "\"",
+  "biaotiqian": "title=\"",
+  "biaotihou": "\"",
+  "lianjieqian": "href=\"",
+  "lianjiehou": "\"",
+
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "空",
+  "fubiaotihou": "空",
+
+
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/detail/",
+  "ssmoshi": "0",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "<ul class=\"stui-content__playlist clearfix\">",
+  "bfjiequshuzuhou": "</ul>",
+
+  "zhuangtaiqian": "最后更新：",
+  "zhuangtaihou": "</a>",
+  "daoyanqian": "导演：",
+  "daoyanhou": "</p>",
+  "zhuyanqian": "主演：",
+  "zhuyanhou": "/",
+  "juqingqian": "style=\"display: none;\">",
+  "juqinghou": "</span>",
+
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": ">",
+  "bfbiaotihou": "<",
+  "bflianjieqian": "href=\"",
+  "bflianjiehou": "\""
+}
